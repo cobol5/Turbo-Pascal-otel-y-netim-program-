@@ -1,1 +1,1 @@
-# Turbo-Pascal-otel-y-netim-program-
+# basit bir Turbo Pascal ile yazılmış otel yönetim progranı.  
