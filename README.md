@@ -1,1 +1,1 @@
-# basit bir Turbo Pascal ile yazılmış otel yönetim progranı.  
+# basit bir Turbo Pascal ile yazılmış otel yönetim programı.  
